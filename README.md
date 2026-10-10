@@ -12,7 +12,7 @@ IT×エンタメに興味を持っている、成蹊大学理工学部コンピ�
 
 ### 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,ruby,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,ruby,c++,docker" />
 </p>
 
 ## 📊 GitHub Stats
