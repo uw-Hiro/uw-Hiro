@@ -5,13 +5,13 @@ IT×エンタメに興味を持っている、成蹊大学理工学部コンピ�
 
 ## About Me
 - 大学では軽音楽サークルでドラムを叩いており、ライブやフェスが大好きです。
-- **「Live Go」**: ライブの準備・費用管理アプリを個人開発しました。
+- **「Live Go」**: 友人の課題解決として、ライブの準備・費用管理アプリを個人開発しました。（HTML/CSS/PHP/TypeScript）
 - **Currently Learning**: 大規模トラフィックに耐えられるアーキテクチャとクリーンなコード。
+- **Recent Focus**: インターンシップでRuby on Railsを用いたシステム開発を経験し、サーバーサイドのロジック構築の楽しさを学んでいます。
 - **Goal**: チケットシステムなど、熱狂を届ける体験の裏側を支えるエンジニアになること。
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 <p align="left">
-  <!-- ここにスキルアイコンを追加 -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,ruby,mysql,docker" />
 </p>
 
